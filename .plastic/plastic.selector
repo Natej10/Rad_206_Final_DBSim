@@ -1,0 +1,4 @@
+repository "rad206_final@mkgale@cloud"
+  path "/"
+    smartbranch "/main"            
+     
