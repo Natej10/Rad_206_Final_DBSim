@@ -2,7 +2,8 @@
  DBS simulator and Brain anatomy learning Application
 
  The Enclosed project provides a mixed-reality and haptic-enabled platform developed on Unity.
-
+ Developed with Unity Editor Version 2022.3.10f1
+ Support for other Unity Versions is not gauranteed.
  Setup Instructions for Unity can be found here https://unity.com/
 
  Setup Instructions for the Windows Hololens and associated Mixed Reality Toolkit for Unity can be found here: https://github.com/microsoft/MixedRealityToolkit-Unity
